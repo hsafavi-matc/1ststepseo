@@ -1,13 +1,13 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+title: 'Owner / Operator'
+company: '1stStepSEO'
+location: 'Madison, WI'
+range: 'October 2017 - Present'
+url: 'https://www.1stStepSEO.com/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Developed and styled interactive web applications for small businesses and individuals
+- Worked with corporations, small businesses, and as a contract worker to bring various digital projects to completion
+- Architected and implemented virtual private networks scalable to support large - small businesses
+- Continuously contribute to teams in a multifaceted role of an IT professional in a real-world setting

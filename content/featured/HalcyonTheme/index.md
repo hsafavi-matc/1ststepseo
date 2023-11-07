@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Brothers Cafe & Restaurant'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+google: 'https://www.google.com/search?q=brothers+cafe+and+restaurant+madison+wi'
+external: 'https://www.brotherscafenrestaurant.com'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - AWS Amplify
+  - AWS Route53
+  - HTML
+  - CSS
+  - JavaScript
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+An Authentic Somali Food Restaurant located in Madison, WI. Available at [Brothers Cafe & Restaurant](https://www.brotherscafenrestaurant.com/)

@@ -1,11 +1,12 @@
 ---
 date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Software Engineer II'
+company: 'Change Healthcare'
+location: 'REMOTE'
+range: 'April 2018 - August 2018'
+url: 'https://www.changehealthcare.com/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Setup and execute tests on Automation Test Framework using Ranorex.
+- Performed unit and system testing on performance tool IBM Rational Integration Tester.
+- Configure and setup test environment, contribute to testing resource standards/best practices.
