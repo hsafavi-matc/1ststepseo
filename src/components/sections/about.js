@@ -135,21 +135,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Haene Safavi and I enjoy creating things that live on the internet.
-              My interest in web development started back in 2012 when I decided to try editing
-              custom Tumblr themes — turns out hacking together a custom reblog button taught me a
-              lot about HTML &amp; CSS!
+              Hello! My name is Haene Safavi. As a dedicated MS Accountancy graduate with a unique
+              blend of skills in both finance and technology, I am currently pursuing an IT - Cloud
+              DevOps degree.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              My experience in utilizing cloud computing, DevOps methodologies, and software
+              engineering, combined with a strong foundation in business operations and accountancy
+              positions me to effectively contribute to, learn from, and grow. I am keen to apply my
+              knowledge and adaptability to foster innovative solutions and support an
+              organization's technology and financial objectives.
             </p>
 
             <p>

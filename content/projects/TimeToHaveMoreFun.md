@@ -1,6 +1,6 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
+title: 'Windows Server 1 Final Exam'
 github: 'https://github.com/bchiang7/time-to-have-more-fun'
 external: 'https://time-to-have-more-fun.now.sh/'
 tech:

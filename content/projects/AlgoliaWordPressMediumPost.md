@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+title: 'Windows Server 1 Midterm Exam'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://s3.amazonaws.com/haenesafavi.com/midtermfinal-1.mp4'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Windows Server 2019
+  - Microsoft Hyper-V
+  - PowerPoint
+company: 'Windows Server'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+How to install Hyper-V, create/configure network switches, add/remove users, and add print services.
