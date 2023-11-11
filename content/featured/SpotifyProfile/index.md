@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Personal Profile'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/madisoncollege-it-programs'
+external: 'https://www.haenesafavi.com/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - WordPress
+  - AWS Lightsail
+  - Route53
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A WordPress personal profile page. Visit if you would like to learn more about me! Available at [haenesafavi.com](https://www.haenesafavi.com/)

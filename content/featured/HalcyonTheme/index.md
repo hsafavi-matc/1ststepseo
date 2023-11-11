@@ -7,8 +7,6 @@ external: 'https://www.brotherscafenrestaurant.com'
 tech:
   - AWS Amplify
   - AWS Route53
-  - HTML
-  - CSS
   - JavaScript
 ---
 
