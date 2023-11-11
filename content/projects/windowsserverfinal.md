@@ -1,14 +1,14 @@
 ---
 date: '2020-01-10'
 title: 'Windows Server 1 Final Exam'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+github: ''
+external: 'https://s3.amazonaws.com/haenesafavi.com/windowsserverfinal.mp4'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Server Manager
+  - Active Directory
+  - Windows Server 2019
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+This is a video of my final exam for Windows Server 1. It demonstrates how to install a VM, setup Active Directory, and setup a web server, among other tasks.
