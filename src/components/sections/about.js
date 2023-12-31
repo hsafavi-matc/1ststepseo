@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['AWS', 'Microsoft Azure', 'VMware', 'Wordpress', 'Linux', 'Python'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,20 +141,11 @@ const About = () => {
             </p>
 
             <p>
-              My experience in utilizing cloud computing, DevOps methodologies, and software
-              engineering, combined with a strong foundation in business operations and accountancy
+              My experience in utilizing Cloud Computing, DevOps methodologies, and software
+              engineering, combined with a strong foundation in business operations and Accountancy
               positions me to effectively contribute to, learn from, and grow. I am keen to apply my
               knowledge and adaptability to foster innovative solutions and support an
               organization's technology and financial objectives.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -169,7 +160,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.png"
+              src="src/images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
